@@ -251,6 +251,7 @@ defaults:
   #     comments: true
   #     share: true
   #     related: true
+  
   # _pages
   - scope:
       path: ""
@@ -258,26 +259,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _education
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
       
+  # # _education
+  # - scope:
+  #     path: ""
+  #     type: education
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _research
+  # - scope:
+  #     path: ""
+  #     type: research
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # # _teaching
   # - scope:
   #     path: ""
