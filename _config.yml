@@ -12,9 +12,9 @@ title                    : "Yufei Zheng"
 title_separator          : "-"
 name                     : &name "Yufei Zheng"
 description              : &description "Second Year Master's in Economics at Duke University"
-url                      : https://yufeizheng.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sophiezheng5.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sophiezheng5/yufeizheng.github.io"
+repository               : "sophiezheng5/sophiezheng5.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -212,18 +212,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  home:
-    output: true
-    permalink: /:collection/:path/
-  education:
-    output: true
-    permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
+  # home:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # education:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # cv:
+  #   output: true
+  #   permalink: /:collection/:path/
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
