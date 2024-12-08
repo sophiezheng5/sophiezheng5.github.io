@@ -10,4 +10,5 @@ Methodologies: Structural Models, Reduced-form Analysis
 
 # Working Papers
 * **What Drives Censorship on College Campuses?** (with Peter Arcidiacono, Cory Dowd, and Matthew Lilley) <br />
-* **Fertility Choice of Second Child and the Diminishing Marginal Penalty on Women’s Labor Market Outcomes**, submitted to _Duke Journal of Economics_.
+* **Fertility Choice of Second Child and the Diminishing Marginal Penalty on Women’s Labor Market Outcomes**, submitted to _Duke Journal of Economics_. [<a href="files/Fertility Choice of Second Child and the Diminishing Marginal Penalty on Women's Labor Market Outcomes.pdf
+">pdf</a>]
